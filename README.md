@@ -1,4 +1,8 @@
 ![Logo do git](logo.png)
+
+[Bem vindo](#bem-vindo-ao-curso-git-e-github) 
+[Módulos](#módulos) |
+[Rede social](#redes-sociais) 
 # Bem vindo ao curso Git e GitHub
 Nesse curso você vai dominar todo **Git** e **GitHub** _do zero ao profissional._
 
