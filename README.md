@@ -36,3 +36,9 @@ function mostraNome(nome){
     return "Bem vindo" + nome;
 }
 ```
+
+Propriedade | Descrição
+------------| ---------
+name | Para informar o nome do usuario
+size | Para definir o tamanho do campo
+background | Cor de fundo da area
