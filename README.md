@@ -1,6 +1,6 @@
 ![Logo do git](logo.png)
 
-[Bem vindo](#bem-vindo-ao-curso-git-e-github) 
+[Bem vindo](#bem-vindo-ao-curso-git-e-github) | 
 [Módulos](#módulos) |
 [Rede social](#redes-sociais) 
 # Bem vindo ao curso Git e GitHub
