@@ -17,3 +17,18 @@ Nesse curso você vai dominar todo **Git** e **GitHub** _do zero ao profissional
 ### Redes sociais:
 [Instagram](https://instagram.com)
 
+>Este é um blockquote usado para destacar uma area
+>
+>Segunda area destacada
+
+**Comando para rodar o projeto:**
+```
+npm start
+```
+
+**Exemplo de uso do script:**
+```js
+function mostraNome(nome){
+    return "Bem vindo" + nome;
+}
+```
